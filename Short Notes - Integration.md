@@ -15,6 +15,7 @@
 
 
 * Throttling: The lecture introduces throttling, which sets limits on the number of requests an API can accept from a single user within a specific timeframe. This is crucial for protecting against denial-of-service attacks.
+#This file is just for pracricing git and github real time
 
 
 
